@@ -1,10 +1,16 @@
 _repo: Tchaikowsky-and-His-Orchestral-Music-The-New-York-Philarmonic-Symphony-Society-Presents_50230
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50230-h/images/0_cover.jpg
 creator:
   author:
     agent_name: Biancolli, Louis
     gutenberg_agent_id: '45762'
     url: http://www.gutenberg.org/2009/agents/45762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50230#Tchaikowsky-and-His-Orchestral-Music-The-New-York-Philarmonic-Symphony-Society-Presents
 gutenberg_issued: '2015-10-16'
 gutenberg_type: Text
 identifiers:
